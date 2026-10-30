@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=theonlydayo&color=0C3534&style=flat-square&label=PROFILE+VIEWS" align="right" />
 </a>
 
-# 👋🏽 Hey, I'm Adedayo!
+# Hi, I'm Dayo!
 
 A **Frontend & Full-Stack Developer** who enjoys building web applications, solving problems, and bringing ideas to life through code.
 
