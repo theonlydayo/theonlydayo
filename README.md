@@ -17,7 +17,7 @@
 
 ## 👨🏽‍💻 About Me
 
-I'm **Adedayo Abdulazeez**, a Frontend & Full-Stack Developer focused on building modern, responsive, and scalable web applications.
+I'm **Adedayo Ogunwolu**, a Frontend & Full-Stack Developer focused on building modern, responsive, and scalable web applications.
 
 - 🎓 Software Engineering student at Lead City University.
 - 💻 Passionate about frontend development and full-stack engineering.
