@@ -1,150 +1,119 @@
 
-<!-- ==================== HEADER ==================== -->
+<a href="https://github.com/theonlydayo">
+  <img src="https://komarev.com/ghpvc/?username=theonlydayo&color=0C3534&style=flat-square&label=PROFILE+VIEWS" align="right" />
+</a>
 
+# 👋🏽 Hello World, I'm Dayo
 
-<div align="center">
+I'm a **Frontend & Full-Stack Developer** passionate about building modern web applications, exploring new technologies, and turning ideas into functional products.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0C3534,100:0D1117&height=200&section=header&text=Adedayo%20Abdulazeez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=17" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Turning+ideas+into+functional+products;Exploring+AI-powered+applications;Always+learning.+Always+building." alt="Typing SVG" />
-
-</div>
-
-
----
-
-<!-- ==================== ABOUT ME ==================== -->
-
-## 👨🏽‍💻 About Me
-
-I'm **Adedayo Ogunwolu**, a Frontend & Full-Stack Developer focused on building modern, responsive, and scalable web applications.
-
-- 🎓 Software Engineering student at Lead City University.
-- 💻 Passionate about frontend development and full-stack engineering.
-- ⚡ Building applications with React, Next.js, TypeScript and Node.js.
-- 🤖 Exploring AI-powered applications and developer tools.
-- 🗄️ Working with databases, REST APIs and modern backend technologies.
-- 🌱 Constantly learning, experimenting and improving my craft.
+- 💻 Currently building with **React, Next.js, TypeScript, and Node.js**
+- 🚀 Developing full-stack applications and AI-powered products
+- 🧠 Interested in software engineering, web development, and AI integration
+- 🎓 Software Engineering student at **Lead City University**
+- 🌍 Based in Nigeria
+- 📫 Check out my work: [GitHub Repositories](https://github.com/theonlydayo?tab=repositories)
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack & Tools
-
-**Frontend Development**
+**Frontend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 **Backend & Database**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/neon-%2300E599.svg?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
 </p>
 
 **Tools & Platforms**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-</p>
-
-**Other Technologies**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Neon-PostgreSQL-00E599?style=flat-square&logo=neon&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/Clerk-Authentication-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-Development-0C3534?style=flat-square" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
-
-<!-- ==================== PROJECTS ==================== -->
 
 ## 🚀 Featured Projects
 
-### 01. Outpost — Agentic Workspace
+- **[Outpost](https://github.com/theonlydayo)** — An AI-powered workspace application featuring document editing, Kanban task management, interactive canvases, voice prompting, and AI-assisted workflows.
 
-An AI-powered workspace application featuring AI-assisted workflows, document editing with BlockNote, interactive canvases, Kanban task management, voice prompting and AI code reviews.
+- **Forge** — A modern application exploring AI integration, authentication, and full-stack development.
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · Neon · Clerk
+- **Dreams LMS** — A learning management system designed around course management, authentication, and structured learning workflows.
 
-### 02. Forge — AI-Powered Application
+- **Idea Drop** — A job portal application featuring job listings, search, filtering, pagination, and API integration.
 
-A modern full-stack application exploring AI integration, authentication, database management and server-side application architecture.
+- **AI App Builder** — An AI-focused application exploring modern frontend development and AI-powered functionality.
 
-**Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Clerk · Gemini
+- **Personal Portfolio** — A responsive portfolio showcasing my development skills, projects, and experience.
 
-### 03. Dreams LMS — Learning Management System
-
-A learning management system project designed around course management, user authentication and structured learning workflows.
-
-**Stack:** React · TypeScript · Tailwind CSS · Express.js · MongoDB
-
-### 04. Idea Drop — Job Portal
-
-A job portal application featuring job listings, search functionality, filtering, pagination and API integration.
-
-**Stack:** React · TypeScript · Tailwind CSS · Strapi · REST APIs
-
-### 05. AI App Builder
-
-An AI-focused application exploring the integration of modern frontend technologies with AI-powered functionality.
-
-**Stack:** React · TypeScript · Tailwind CSS · AI SDK
-
-### 06. Personal Portfolio
-
-A responsive personal portfolio showcasing my development skills, projects and experience.
-
-**Stack:** React · Tailwind CSS · JavaScript
-
-<p align="center">
-  <a href="https://github.com/theonlydayo?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-0C3534?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[Explore more of my repositories →](https://github.com/theonlydayo?tab=repositories)
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
+## 🌱 Current Focus
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theonlydayo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlydayo&layout=compact&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9&langs_count=8" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=theonlydayo&theme=dark&hide_border=true&background=0D1117&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" />
-
-</div>
+- Building scalable applications with **Next.js and TypeScript**
+- Improving my backend development skills with **Node.js and Express**
+- Working with **PostgreSQL, Neon, Prisma, and MongoDB**
+- Exploring **AI SDKs and AI-powered application development**
+- Improving software architecture and writing maintainable code
+- Following structured development workflows and Agile practices
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
+## 🤝 Connect With Me
 
-## 🤝 Let's Connect
-
-I'm always open to connecting with developers, collaborating on interesting projects and exploring new opportunities.
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/theonlydayo">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-<div align="center">
+## 🏆 GitHub Trophies
 
-### 💡 Building today. Improving tomorrow.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theonlydayo&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0C3534,100:0D1117&height=100&section=footer" width="100%" />
+---
 
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theonlydayo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlydayo&layout=compact&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=theonlydayo&theme=dark&hide_border=true&background=0D1117&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Building, learning, and getting better with every commit."</i>
+</p>
