@@ -3,16 +3,15 @@
   <img src="https://komarev.com/ghpvc/?username=theonlydayo&color=0C3534&style=flat-square&label=PROFILE+VIEWS" align="right" />
 </a>
 
-# 👋🏽 Hello World, I'm Dayo
+# 👋🏽 Hey, I'm Adedayo!
 
-I'm a **Frontend & Full-Stack Developer** passionate about building modern web applications, exploring new technologies, and turning ideas into functional products.
+A **Frontend & Full-Stack Developer** who enjoys building web applications, solving problems, and bringing ideas to life through code.
 
-- 💻 Currently building with **React, Next.js, TypeScript, and Node.js**
-- 🚀 Developing full-stack applications and AI-powered products
-- 🧠 Interested in software engineering, web development, and AI integration
-- 🎓 Software Engineering student at **Lead City University**
-- 🌍 Based in Nigeria
-- 📫 Check out my work: [GitHub Repositories](https://github.com/theonlydayo?tab=repositories)
+- 💻 Working with React, Next.js, TypeScript, and Node.js
+- 🚀 Building full-stack applications and exploring AI-powered solutions
+- 🧠 Interested in clean code, software architecture, and modern web technologies
+- 🎓 Software Engineering student at Lead City University
+- 📫 Explore my work: [GitHub Repositories](https://github.com/theonlydayo?tab=repositories)
 
 ---
 
@@ -56,7 +55,7 @@ I'm a **Frontend & Full-Stack Developer** passionate about building modern web a
 
 ## 🚀 Featured Projects
 
-- **[Outpost](https://github.com/theonlydayo)** — An AI-powered workspace application featuring document editing, Kanban task management, interactive canvases, voice prompting, and AI-assisted workflows.
+- **Outpost** — An AI-powered workspace application featuring document editing, Kanban task management, interactive canvases, voice prompting, and AI-assisted workflows.
 
 - **Forge** — A modern application exploring AI integration, authentication, and full-stack development.
 
@@ -86,17 +85,12 @@ I'm a **Frontend & Full-Stack Developer** passionate about building modern web a
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/theonlydayo">
+  <a href="https://github.com/theonlydayo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theonlydayo&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <a href="https://www.linkedin.com/in/adedayoogunwolu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
