@@ -1,13 +1,15 @@
 
 <!-- ==================== HEADER ==================== -->
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0C3534,100:0D1117&height=200&section=header&text=Adedayo%20Abdulazeez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0C3534,100:0D1117&height=200&section=header&text=Adedayo%20Abdulazeez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=17" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Turning+ideas+into+functional+products;Exploring+AI-powered+applications;Always+learning.+Always+building." alt="Typing SVG" />
 
 </div>
+
 
 ---
 
